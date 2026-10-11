@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/admin", "destination": "https://cafebar-sway-darwon.vercel.app/admin", "permanent": false },
+    { "source": "/admin/:path*", "destination": "https://cafebar-sway-darwon.vercel.app/admin/:path*", "permanent": false },
+    { "source": "/login", "destination": "https://cafebar-sway-darwon.vercel.app/login", "permanent": false },
+    { "source": "/rezervacia", "destination": "https://cafebar-sway-darwon.vercel.app/rezervacia", "permanent": false }
+  ]
+}
